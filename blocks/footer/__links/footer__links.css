@@ -1,0 +1,26 @@
+@import url('./__link/footer__link.css');
+
+.footer__links {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}
+
+@media screen and (max-width: 1024px) {
+    .footer__links {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer__links {
+        width: 65%;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .footer__links {
+        flex-direction: column;
+        margin-bottom: 48px;
+    }
+}

@@ -1,0 +1,27 @@
+.barentsburg__text-container {
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+}
+
+@media screen and (max-width: 1024px) {
+    .barentsburg__text-container {
+        /* margin-left: 60px; */
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .barentsburg__text-container {
+        justify-content: space-between;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .barentsburg__text-container {
+        flex-direction: column-reverse;
+        width: 80%;
+        margin-left: 16px;
+    } 
+}

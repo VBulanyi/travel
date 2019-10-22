@@ -1,0 +1,22 @@
+@import url('./__bg/additional__bg.css');
+
+.additional__container_item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 330px;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: relative;
+}
+
+@media screen and (max-width: 1024px) {
+    .additional__container_item {
+        height: 280px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .additional__container_item {
+        height: 330px;
+    }
+}

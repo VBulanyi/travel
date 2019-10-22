@@ -1,0 +1,9 @@
+@import url('./_box/video__container-item_box.css');
+
+.video__container-item {
+    position: relative;
+    max-width: 583px;
+    max-height: 323px;
+    height: 100%;
+}
+

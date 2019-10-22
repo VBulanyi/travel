@@ -1,0 +1,15 @@
+.header__lang-container {
+    margin-right: 48px;
+    font-size: 1.5rem;
+    line-height: 0.96;
+    text-align: right;
+}
+
+@media screen and (max-width: 375px) {
+    .header__lang-container {
+        font-size: calc(1.5rem * 0.75);
+        line-height: 0.94;
+        margin-right: 16px;
+
+    }
+}

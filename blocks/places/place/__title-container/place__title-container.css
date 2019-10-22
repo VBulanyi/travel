@@ -1,0 +1,32 @@
+.place__title-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    align-content: space-between;
+    margin-top: 72px;
+    margin-left: 148px;
+}
+
+@media screen and (max-width: 1024px) {
+    .place__title-container {
+        margin-left: 48px;
+    } 
+}
+
+@media screen and (max-width: 768px) {
+    .place__title-container {
+        margin-left: 24px;
+    } 
+}
+
+@media screen and (max-width: 375px) {
+    .place__title-container {
+        display: flex;
+        flex-direction: column;
+        margin-left: 16px;
+        margin-right: 16px;
+        margin-top: 48px;
+        align-items: flex-start;
+    } 
+}
+

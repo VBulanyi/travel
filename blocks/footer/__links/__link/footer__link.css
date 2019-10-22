@@ -1,0 +1,19 @@
+.footer__link {
+    font-size: 1.5rem;
+    line-height: 167%;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+    .footer__link {
+        font-size: 1rem;
+        line-height: 169%;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .footer__link {
+        font-size: 1.5rem;
+        line-height: 167%; 
+    }
+}

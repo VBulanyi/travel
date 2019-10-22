@@ -1,0 +1,34 @@
+
+.video__contaner_item {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    opacity: 0.5;
+
+}
+
+@media screen and (max-width:1024px) {
+.video__contaner_item {
+    width: 456px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .video__contaner_item {
+        width: 352px;
+    }
+}
+
+@media screen and (max-width:375px) {
+    .video__contaner_item {
+        width: 343px;
+        height: 200px;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .video__contaner_item {
+        width: 288px;
+        height: 192px;
+    }
+}
