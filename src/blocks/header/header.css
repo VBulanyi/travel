@@ -1,7 +1,7 @@
 @import url('../../blocks/header/__logo/header__logo.css');
 @import url('../../blocks/header/__lang-containe/header__lang-containe.css');
-@import url('../../blocks/header/header__lang/header__lang.css');
 @import url('../../blocks/en/en.css');
+@import url('../../blocks/header/__lang/header__lang.css');
 
 .header {
     padding-top: 30px;
