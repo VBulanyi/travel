@@ -1,9 +1,0 @@
-@import url('./__img/emblem__img.css');
-@import url('./__items/emblems__items.css');
-@import url('./__subtitle/emblem__subtitle.css');
-@import url('./__title/emblem__title.css');
-
-.emblem {
-    width: 100%;
-    /* height: 100%; */
-}
