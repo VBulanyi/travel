@@ -24,13 +24,11 @@
     } 
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 415px) {
     .place__image-container {
         display: flex;
         flex-direction: column;
         align-content: space-between;
-        margin-left: 0px;
-        margin-right: 0px;
         margin-top: 32px;
     } 
 }

@@ -5,7 +5,7 @@
     line-height: 145%;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 415px) {
     .barentsburg__coord {
         flex-direction: column;
         font-size: 1rem;

@@ -17,7 +17,7 @@
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 415px) {
     .comments__container_comment-quote {
         margin-top: 24px;
     }
