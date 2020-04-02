@@ -29,7 +29,7 @@
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 415px) {
     .emblems__items {
         grid-template-columns: repeat(1, 1fr);
         grid-template-rows: 5;

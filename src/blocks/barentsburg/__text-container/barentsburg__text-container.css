@@ -18,7 +18,7 @@
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 415px) {
     .barentsburg__text-container {
         flex-direction: column-reverse;
         width: 80%;

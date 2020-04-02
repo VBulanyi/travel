@@ -9,7 +9,7 @@
 - клонировать репозиторий
 - обновить зависимости: npm i
 
-- сборка в режиме разработки: npm tun build"
+- сборка в режиме разработки: npm tun build
 - сборка готового проекта: npm run dev
-- деплой на github pages: npm run gh-pages
+- деплой на github pages: npm run deploy
 

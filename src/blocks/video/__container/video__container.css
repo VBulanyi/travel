@@ -15,7 +15,7 @@
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 415px) {
     .video__container {
         flex-direction: column;
         width: calc(100% - 32px);
